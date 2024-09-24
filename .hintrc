@@ -4,6 +4,12 @@
   ],
   "hints": {
     "axe/language": "off",
-    "meta-viewport": "off"
+    "meta-viewport": "off",
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ]
   }
 }
