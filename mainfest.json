@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Even is a completely asshole.",
+  "version": "1.0",
+  "description": "Jumps jumps jumps, the rabbit dows.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
